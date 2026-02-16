@@ -32,6 +32,3 @@ It lets you enter a city name and shows the current weather using data from the 
 2. Create a free account  
 3. Get your **API key** from your account  
 4. In the `script.js` file, replace this line:
-
-```js
-const apiKey = "30a130c2a95853a801cb5ad7e899f963";
